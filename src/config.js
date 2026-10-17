@@ -5,7 +5,7 @@
 
 export const site = {
   // ✏️ REQUIRED: your name (used in navbar logo, hero, footer, page title)
-  name: "KAVYA GALA",
+  name: "Kavya Gala",
   // Short line used in the footer
   tagline: "BTech student working at the intersection of data, statistics and machine learning.",
 
@@ -15,9 +15,9 @@ export const site = {
 
 export const contact = {
   // ✏️ Fill these in. Empty values are hidden automatically.
-  email: "",      // e.g. "kavyabgala@gmail.com"
-  github: "",     // e.g. "https://github.com/kavyagala"
-  linkedin: "",   // e.g. ""
+  email: "kavyabgala@gmail.com",
+  github: "https://github.com/kavyagala",
+  linkedin: "",   // add later if you want, e.g. "https://www.linkedin.com/in/yourprofile"
 };
 
 export const about = {
